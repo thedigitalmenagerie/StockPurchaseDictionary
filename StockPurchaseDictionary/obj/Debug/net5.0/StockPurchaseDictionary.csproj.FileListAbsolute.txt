@@ -1,0 +1,16 @@
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\obj\Debug\net5.0\StockPurchaseDictionary.csproj.AssemblyReference.cache
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\obj\Debug\net5.0\StockPurchaseDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\obj\Debug\net5.0\StockPurchaseDictionary.AssemblyInfoInputs.cache
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\obj\Debug\net5.0\StockPurchaseDictionary.AssemblyInfo.cs
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\obj\Debug\net5.0\StockPurchaseDictionary.csproj.CoreCompileInputs.cache
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\bin\Debug\net5.0\StockPurchaseDictionary.exe
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\bin\Debug\net5.0\StockPurchaseDictionary.deps.json
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\bin\Debug\net5.0\StockPurchaseDictionary.runtimeconfig.json
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\bin\Debug\net5.0\StockPurchaseDictionary.runtimeconfig.dev.json
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\bin\Debug\net5.0\StockPurchaseDictionary.dll
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\bin\Debug\net5.0\ref\StockPurchaseDictionary.dll
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\bin\Debug\net5.0\StockPurchaseDictionary.pdb
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\obj\Debug\net5.0\StockPurchaseDictionary.dll
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\obj\Debug\net5.0\ref\StockPurchaseDictionary.dll
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\obj\Debug\net5.0\StockPurchaseDictionary.pdb
+C:\Users\honey\source\repos\StockPurchaseDictionary\StockPurchaseDictionary\obj\Debug\net5.0\StockPurchaseDictionary.genruntimeconfig.cache
